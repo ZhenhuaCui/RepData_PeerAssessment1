@@ -7,6 +7,7 @@ output:
 
 
 ## Loading and preprocessing the data
+
 ###Show any code that is needed to
 
 1.Load the data (i.e. read.csv())  
@@ -14,6 +15,7 @@ output:
 ```{r}
 activity <- read.csv("C:/Users/unicu/OneDrive/Stat/Rwd/activity.csv")
 ```
+
 
 ## What is mean total number of steps taken per day?
 ###For this part of the assignment, you can ignore the missing values in the dataset.  
